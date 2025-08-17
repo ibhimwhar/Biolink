@@ -2,7 +2,14 @@
 
 A sleek and customizable clone of [Linktree](https://linktr.ee), built to help users share multiple links through a single, elegant profile page. Perfect for creators, influencers, and professionals who want to showcase their online presence.
 
-![Screenshot](localhost_5173_.png)
+![Home page](localhost_5173_.png)
+
+![Features page](localhost_5173_ (1).png)
+
+![Explore page](localhost_5173_ (2).png)
+
+![Pricing page](localhost_5173_ (3).png)
+
 
 ---
 
